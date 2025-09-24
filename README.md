@@ -1,4 +1,3 @@
-```markdown
 # Threat-Detector: Object Detection with YOLOv5 and COCO Dataset
 
 This project prepares the COCO dataset, converts annotations to YOLO format, performs data augmentation, trains a YOLOv5 model for object detection, and runs real-time video inference.
@@ -94,7 +93,4 @@ Visualize bounding boxes using the provided function in the notebook or script.
 
 See [YOLOv5 License](https://github.com/ultralytics/yolov5/blob/master/LICENSE).
 
----
-
 **Note:** Update paths in `data.yaml` and the scripts as needed for your environment.
-```
